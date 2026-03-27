@@ -1,6 +1,7 @@
 # early-phase-clinical-biomarker-pipeline
 
 A reproducible Python workflow for generating, integrating, and analyzing simulated early-phase oncology clinical trial data with clinical, biomarker, and pharmacokinetic endpoints. The project creates analysis-ready datasets, summary tables, exploratory visualizations, and hypothesis-generating models to demonstrate decision-support analytics relevant to early development biometrics.
+<img width="1372" height="954" alt="Screenshot 2026-03-27 at 11 26 26" src="https://github.com/user-attachments/assets/1300a41d-043e-444d-b822-4a3c8e2a8c2d" />
 
 ## Overview
 
